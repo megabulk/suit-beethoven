@@ -1,0 +1,34 @@
+{
+glyphname = "ru-thai";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (534,0);
+},
+{
+name = topright;
+pos = (674,552);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(584,-211,l),
+(674,-211,l),
+(674,47,l),
+(584,47,l)
+);
+},
+{
+ref = "thoThung-thai";
+}
+);
+width = 745;
+}
+);
+unicode = 3620;
+}

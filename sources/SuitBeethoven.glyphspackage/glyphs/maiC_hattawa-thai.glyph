@@ -1,0 +1,59 @@
+{
+category = Mark;
+glyphname = "maiChattawa-thai";
+kernRight = uppermarks;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (-55,542);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (1,0);
+target = (0,3);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (1,0);
+target = (1,3);
+type = Stem;
+},
+{
+origin = (0,0);
+target = (0,1);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-187,592,l),
+(-113,592,l),
+(-113,783,l),
+(-187,783,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-382,627,l),
+(-55,627,l),
+(-55,748,l),
+(-382,748,l)
+);
+}
+);
+width = 0;
+}
+);
+script = thai;
+subCategory = Nonspacing;
+unicode = 3659;
+}

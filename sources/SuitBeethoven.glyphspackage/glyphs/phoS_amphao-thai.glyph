@@ -1,0 +1,37 @@
+{
+glyphname = "phoSamphao-thai";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (694,0);
+},
+{
+name = topright;
+pos = (694,552);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(37,0,l),
+(77,0,o),
+(111,0,o),
+(151,0,c),
+(151,65,l),
+(37,65,l)
+);
+},
+{
+pos = (20,0);
+ref = "koKai-thai";
+}
+);
+width = 768;
+}
+);
+unicode = 3616;
+}

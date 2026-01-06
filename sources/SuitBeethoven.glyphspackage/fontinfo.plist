@@ -1,0 +1,199 @@
+{
+.appVersion = "3134";
+.formatVersion = 3;
+date = "2024-10-07 13:25:42 +0000";
+familyName = "Suit Beethoven";
+features = (
+{
+automatic = 1;
+code = "lookup ccmp_thai_1 {
+	sub saraAm-thai by nikhahit-thai saraAa-thai;
+} ccmp_thai_1;
+
+lookup ccmp_thai_2 {
+	sub [yoYing-thai]' [saraU-thai saraUu-thai] by [yoYing-thai.less];
+} ccmp_thai_2;
+
+script thai;
+lookup ccmp_thai_1;
+lookup ccmp_thai_2;
+";
+tag = ccmp;
+}
+);
+fontMaster = (
+{
+guides = (
+{
+angle = 90;
+pos = (674,-151);
+},
+{
+angle = 90;
+pos = (163,519);
+},
+{
+pos = (213,256);
+},
+{
+angle = 90;
+pos = (584,-95);
+},
+{
+angle = 90;
+pos = (74,-85);
+}
+);
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+},
+{
+over = -16;
+pos = -200;
+},
+{
+over = 16;
+pos = 800;
+},
+{
+over = 10;
+pos = 750;
+},
+{
+over = 20;
+pos = 552;
+},
+{
+over = 10;
+pos = 1050;
+},
+{
+over = -10;
+pos = 940;
+},
+{
+over = 10;
+pos = 750;
+},
+{
+over = -10;
+pos = 600;
+},
+{
+over = 10;
+pos = -100;
+},
+{
+over = -10;
+pos = -250;
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 15;
+GSExtrudeAngle = 30;
+GSExtrudeOffset = 15;
+};
+}
+);
+kerningLTR = {
+m01 = {
+"@MMK_L_sara" = {
+"@MMK_R_kho" = -30;
+};
+"@MMK_L_uppermarks" = {
+"@MMK_R_saraO" = 74;
+"saraAiMaimalai-thai" = 134;
+};
+"choChang-thai" = {
+"doChada-thai" = -50;
+};
+"doChada-thai" = {
+"saraAa-thai" = 0;
+};
+"saraAiMaimalai-thai" = {
+"@MMK_R_kho" = 0;
+};
+"saraIi-thai" = {
+"saraO-thai" = 37;
+};
+"saraO-thai" = {
+"@MMK_R_kho" = -74;
+"moMa-thai" = 1;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+filter = "script == \"thai\"";
+name = "Vowel Ascender";
+},
+{
+filter = "script == \"thai\"";
+name = "Consonant Ascender";
+type = ascender;
+},
+{
+filter = "script == \"thai\"";
+type = bodyHeight;
+},
+{
+filter = "script == \"thai\" AND category == \"Mark\"";
+name = "Stacked Marks Top";
+},
+{
+filter = "script == \"thai\" AND category == \"Mark\"";
+name = "Stacked Marks Bottom";
+},
+{
+filter = "script == \"thai\" AND category == \"Mark\"";
+name = "Above Marks Top";
+},
+{
+filter = "script == \"thai\" AND category == \"Mark\"";
+name = "Above Marks Bottom";
+},
+{
+filter = "script == \"thai\" AND category == \"Mark\"";
+name = "Below Marks Top";
+},
+{
+filter = "script == \"thai\" AND category == \"Mark\"";
+name = "Below Marks Bottom";
+}
+);
+properties = (
+{
+key = sampleTexts;
+values = (
+{
+language = THA;
+value = "นายสังฆภัณฑ์ เฮงพิทักษ์ฝั่ง ผู้เฒ่าซึ่งมีอาชีพเป็นฅนขายฃวด ถูกตำรวจปฏิบัติการจับฟ้องศาล ฐานลักนาฬิกาคุณหญิงฉัตรชฎา ฌานสมาธิ";
+}
+);
+}
+);
+unitsPerEm = 1120;
+userData = {
+GSDimensionPlugin.Dimensions = {
+m01 = {
+};
+};
+};
+versionMajor = 1;
+versionMinor = 0;
+}

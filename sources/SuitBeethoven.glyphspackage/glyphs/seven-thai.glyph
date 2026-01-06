@@ -1,0 +1,30 @@
+{
+glyphname = "seven-thai";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "three-thai";
+},
+{
+closed = 1;
+nodes = (
+(838,0,l),
+(838,572,l),
+(765,572,l),
+(765,306,o),
+(732,90,o),
+(720,90,cs),
+(707,90,o),
+(674,286,o),
+(674,552,c),
+(674,0,l)
+);
+}
+);
+width = 912;
+}
+);
+unicode = 3671;
+}

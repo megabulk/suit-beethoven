@@ -1,0 +1,54 @@
+{
+glyphname = "toTao-thai";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (674,0);
+},
+{
+name = topright;
+pos = (674,552);
+}
+);
+hints = (
+{
+name = _segment.top_invert;
+origin = (0,9);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(163,243,o),
+(268,256,o),
+(380,256,cs),
+(493,256,o),
+(584,243,o),
+(584,213,cs),
+(584,0,l),
+(674,0,l),
+(674,535,l),
+(74,535,l),
+(74,0,l),
+(429,0,l),
+(429,75,l),
+(429,75,o),
+(335,73,o),
+(304,73,cs),
+(188,73,o),
+(163,75,o),
+(163,100,cs),
+(163,213,ls)
+);
+}
+);
+width = 748;
+}
+);
+unicode = 3605;
+}

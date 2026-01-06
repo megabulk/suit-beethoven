@@ -1,0 +1,63 @@
+{
+category = Mark;
+glyphname = "maiHanaKat-thai";
+kernRight = uppermarks;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (-74,577);
+},
+{
+name = topright;
+pos = (-74,743);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (1,4);
+target = (0,3);
+type = Stem;
+},
+{
+origin = (1,1);
+target = (1,8);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-447,627,l),
+(-74,627,l),
+(-74,701,l),
+(-447,701,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-594,794,l),
+(-594,652,l),
+(-594,631,o),
+(-587,626,o),
+(-544,628,c),
+(-385,628,l),
+(-342,631,o),
+(-335,638,o),
+(-335,663,c),
+(-335,796,l)
+);
+}
+);
+width = 0;
+}
+);
+script = thai;
+subCategory = Nonspacing;
+unicode = 3633;
+}

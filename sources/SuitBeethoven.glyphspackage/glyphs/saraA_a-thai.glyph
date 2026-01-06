@@ -1,0 +1,39 @@
+{
+glyphname = "saraAa-thai";
+layers = (
+{
+hints = (
+{
+name = _segment.curve.top;
+origin = (0,11);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,287,l),
+(112,304,o),
+(176,316,o),
+(261,316,cs),
+(341,316,o),
+(406,303,o),
+(406,286,cs),
+(406,285,l),
+(406,0,l),
+(495,0,l),
+(498,316,l),
+(34,316,l),
+(34,290,o),
+(34,320,o),
+(34,287,c)
+);
+}
+);
+width = 535;
+}
+);
+unicode = 3634;
+}

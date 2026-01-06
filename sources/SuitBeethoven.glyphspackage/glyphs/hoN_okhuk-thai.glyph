@@ -1,0 +1,51 @@
+{
+glyphname = "hoNokhuk-thai";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (550,0);
+},
+{
+name = topright;
+pos = (616,552);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(426,392,o),
+(379,405,o),
+(379,420,cs),
+(379,436,o),
+(426,449,o),
+(482,449,c),
+(538,449,o),
+(584,436,o),
+(584,420,cs),
+(584,405,o),
+(538,392,o),
+(482,392,cs)
+);
+},
+{
+ref = "oAng-thai";
+},
+{
+closed = 1;
+nodes = (
+(357,320,l),
+(733,320,l),
+(733,392,l),
+(357,392,l)
+);
+}
+);
+width = 743;
+}
+);
+unicode = 3630;
+}

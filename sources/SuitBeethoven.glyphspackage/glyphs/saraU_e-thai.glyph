@@ -1,0 +1,84 @@
+{
+category = Mark;
+glyphname = "saraUe-thai";
+kernRight = uppermarks;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (-74,576);
+},
+{
+name = topright;
+pos = (-74,803);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (688, 38);
+place = (688, 38);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (814, 43);
+place = (814, 43);
+type = Stem;
+},
+{
+place = (-200, 44);
+place = (-200, 44);
+type = Stem;
+},
+{
+place = (-111, 37);
+place = (-111, 37);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = "saraI-thai";
+},
+{
+closed = 1;
+nodes = (
+(-74,685,l),
+(-74,801,ls),
+(-74,811,o),
+(-132,815,o),
+(-160,815,cs),
+(-190,815,o),
+(-256,811,o),
+(-256,801,cs),
+(-256,685,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-200,729,o),
+(-177,736,o),
+(-152,736,cs),
+(-126,736,o),
+(-104,729,o),
+(-104,719,cs),
+(-104,709,o),
+(-126,700,o),
+(-152,700,cs),
+(-177,700,o),
+(-200,709,o),
+(-200,719,cs)
+);
+}
+);
+width = 0;
+}
+);
+script = thai;
+subCategory = Nonspacing;
+unicode = 3638;
+}

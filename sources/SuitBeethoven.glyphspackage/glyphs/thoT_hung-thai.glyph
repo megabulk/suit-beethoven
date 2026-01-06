@@ -1,0 +1,36 @@
+{
+glyphname = "thoThung-thai";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (674,0);
+},
+{
+name = topright;
+pos = (674,552);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(109,0,l),
+(149,0,o),
+(183,0,o),
+(223,0,c),
+(223,65,l),
+(109,65,l)
+);
+},
+{
+ref = "koKai-thai";
+}
+);
+width = 748;
+}
+);
+unicode = 3606;
+}

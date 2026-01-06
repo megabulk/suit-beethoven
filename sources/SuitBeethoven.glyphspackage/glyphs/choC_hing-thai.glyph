@@ -1,0 +1,88 @@
+{
+glyphname = "choChing-thai";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (674,0);
+},
+{
+name = topright;
+pos = (674,552);
+}
+);
+hints = (
+{
+name = _segment.curve.inner.shallow;
+origin = (3,3);
+type = Segment;
+},
+{
+name = _segment.curve.top;
+origin = (3,0);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(74,0,l),
+(194,0,l),
+(230,27,l),
+(230,166,l),
+(74,166,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(583,202,ls),
+(583,186,o),
+(576,171,o),
+(552,165,cs),
+(168,74,l),
+(194,0,l),
+(644,110,l),
+(674,110,l),
+(674,270,l),
+(585,270,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(542,163,o),
+(540,130,o),
+(540,102,c),
+(540,36,o),
+(542,0,o),
+(548,0,c),
+(674,0,l),
+(674,166,l),
+(548,163,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(74,316,l),
+(74,222,l),
+(163,222,l),
+(584,222,l,{
+GSSegment = {
+name = _segment.curve.inner.shallow;
+};
+}),
+(674,222,l),
+(674,316,l)
+);
+}
+);
+width = 748;
+}
+);
+unicode = 3593;
+}

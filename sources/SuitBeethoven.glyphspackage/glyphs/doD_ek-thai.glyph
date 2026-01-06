@@ -1,0 +1,54 @@
+{
+glyphname = "doDek-thai";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (674,0);
+},
+{
+name = topright;
+pos = (674,552);
+}
+);
+hints = (
+{
+name = _segment.curve.top;
+origin = (0,0);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(74,316,l),
+(74,0,l),
+(429,0,l),
+(429,78,l),
+(429,78,o),
+(330,76,o),
+(298,76,cs),
+(176,76,o),
+(150,78,o),
+(150,103,cs),
+(150,213,ls),
+(150,243,o),
+(258,256,o),
+(374,256,cs),
+(490,256,o),
+(584,243,o),
+(584,213,cs),
+(584,0,l),
+(674,0,l),
+(674,316,l)
+);
+}
+);
+width = 748;
+}
+);
+unicode = 3604;
+}

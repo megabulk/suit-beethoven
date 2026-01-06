@@ -1,0 +1,92 @@
+{
+glyphname = "loLing-thai";
+layers = (
+{
+anchors = (
+{
+name = bottomright;
+pos = (674,0);
+},
+{
+name = topright;
+pos = (674,552);
+}
+);
+hints = (
+{
+name = _segment.curve.inner.shallow;
+origin = (2,3);
+type = Segment;
+},
+{
+name = _segment.curve.top;
+origin = (2,0);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(163,92,l),
+(165,106,o),
+(238,109,o),
+(376,90,c),
+(492,70,o),
+(587,39,o),
+(584,0,c),
+(637,48,l),
+(639,82,o),
+(638,101,o),
+(607,119,c),
+(580,136,o),
+(469,159,o),
+(363,167,c),
+(256,174,o),
+(143,167,o),
+(114,154,c),
+(81,141,o),
+(76,122,o),
+(74,88,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(75,0,l),
+(163,0,l),
+(163,92,l),
+(74,88,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(74,316,l),
+(74,212,l),
+(163,212,l),
+(584,204,l,{
+GSSegment = {
+name = _segment.curve.inner.shallow;
+};
+}),
+(674,204,l),
+(674,316,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(584,0,l),
+(674,0,l),
+(674,268,l),
+(584,268,l)
+);
+}
+);
+width = 748;
+}
+);
+unicode = 3621;
+}
