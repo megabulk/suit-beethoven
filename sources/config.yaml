@@ -61,10 +61,10 @@ buildOTF: false
 # list which is used for all VFs. Note that the build will fail
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
-stat:
-  SuitBeethoven[wght].ttf:
-  - name: Weight
-    tag: wght
-    values:
-    - name: Regular
-      value: 400
+#stat:
+#  SuitBeethoven[wght].ttf:
+#  - name: Weight
+#    tag: wght
+#    values:
+#    - name: Regular
+#      value: 400
