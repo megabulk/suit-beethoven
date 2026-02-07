@@ -6739,6 +6739,19 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 key = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Jonathan Butterick";
+}
+);
+},
+{
+key = designerURL;
+value = "https://goodnightnur.se";
 }
 );
 unitsPerEm = 1000;
