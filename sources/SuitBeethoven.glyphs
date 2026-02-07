@@ -18,6 +18,21 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = panose;
+value = (
+2,
+0,
+6,
+3,
+0,
+0,
+0,
+0,
+0,
+0
+);
 }
 );
 date = "2024-10-07 13:25:42 +0000";
