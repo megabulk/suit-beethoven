@@ -246,30 +246,33 @@ unicode = 71;
 },
 {
 glyphname = H;
+lastChange = "2026-02-07 09:12:17 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 650;
 }
 );
 unicode = 72;
 },
 {
 glyphname = I;
+lastChange = "2026-02-07 09:11:58 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 300;
 }
 );
 unicode = 73;
 },
 {
 glyphname = J;
+lastChange = "2026-02-07 09:12:09 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 400;
 }
 );
 unicode = 74;
@@ -296,10 +299,11 @@ unicode = 76;
 },
 {
 glyphname = M;
+lastChange = "2026-02-07 09:12:34 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 850;
 }
 );
 unicode = 77;
@@ -316,10 +320,11 @@ unicode = 78;
 },
 {
 glyphname = O;
+lastChange = "2026-02-07 09:12:24 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 700;
 }
 );
 unicode = 79;
@@ -436,260 +441,286 @@ unicode = 90;
 },
 {
 glyphname = a;
+lastChange = "2026-02-07 09:13:18 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 97;
 },
 {
 glyphname = b;
+lastChange = "2026-02-07 09:13:20 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 550;
 }
 );
 unicode = 98;
 },
 {
 glyphname = c;
+lastChange = "2026-02-07 09:13:21 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 99;
 },
 {
 glyphname = d;
+lastChange = "2026-02-07 09:13:22 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 550;
 }
 );
 unicode = 100;
 },
 {
 glyphname = e;
+lastChange = "2026-02-07 09:13:23 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 101;
 },
 {
 glyphname = f;
+lastChange = "2026-02-07 09:13:24 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 550;
 }
 );
 unicode = 102;
 },
 {
 glyphname = g;
+lastChange = "2026-02-07 09:13:25 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 103;
 },
 {
 glyphname = h;
+lastChange = "2026-02-07 09:13:27 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 560;
 }
 );
 unicode = 104;
 },
 {
 glyphname = i;
+lastChange = "2026-02-07 09:13:29 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 105;
 },
 {
 glyphname = j;
+lastChange = "2026-02-07 09:13:31 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 106;
 },
 {
 glyphname = k;
+lastChange = "2026-02-07 09:13:31 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 107;
 },
 {
 glyphname = l;
+lastChange = "2026-02-07 09:13:32 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 108;
 },
 {
 glyphname = m;
+lastChange = "2026-02-07 09:13:33 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 109;
 },
 {
 glyphname = n;
+lastChange = "2026-02-07 09:13:34 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 110;
 },
 {
 glyphname = o;
+lastChange = "2026-02-07 09:13:35 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 111;
 },
 {
 glyphname = p;
+lastChange = "2026-02-07 09:13:35 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 112;
 },
 {
 glyphname = q;
+lastChange = "2026-02-07 09:13:36 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 113;
 },
 {
 glyphname = r;
+lastChange = "2026-02-07 09:13:37 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 114;
 },
 {
 glyphname = s;
+lastChange = "2026-02-07 09:13:38 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 115;
 },
 {
 glyphname = t;
+lastChange = "2026-02-07 09:13:38 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 116;
 },
 {
 glyphname = u;
+lastChange = "2026-02-07 09:13:39 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 117;
 },
 {
 glyphname = v;
+lastChange = "2026-02-07 09:13:40 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 118;
 },
 {
 glyphname = w;
+lastChange = "2026-02-07 09:13:41 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 119;
 },
 {
 glyphname = x;
+lastChange = "2026-02-07 09:13:42 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 120;
 },
 {
 glyphname = y;
+lastChange = "2026-02-07 09:13:42 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 121;
 },
 {
 glyphname = z;
+lastChange = "2026-02-07 09:13:43 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 500;
 }
 );
 unicode = 122;
