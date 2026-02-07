@@ -49,6 +49,10 @@ jobs:
 
     - name: Build font
       run: make build
+    - name: Move fonts into family directory
+      run: |
+        mkdir -p fonts/ttf/suitbeethoven
+        mv fonts/ttf/*.ttf fonts/ttf/suitbeethoven/ || true
     - name: Check with fontspector
       run: make test
       continue-on-error: true
