@@ -7,7 +7,7 @@ DisplayStrings = (
 "ค",
 "ฅ",
 "สูทบีโธเฟน",
-" "
+"   "
 );
 customParameters = (
 {
@@ -5328,6 +5328,26 @@ width = 672;
 }
 );
 unicode = 57;
+},
+{
+glyphname = lineseparator;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 8233;
 },
 {
 glyphname = space;
