@@ -6,7 +6,8 @@ DisplayStrings = (
 "ุ",
 "ค",
 "ฅ",
-"สูทบีโธเฟน"
+"สูทบีโธเฟน",
+" "
 );
 customParameters = (
 {
@@ -5337,6 +5338,18 @@ width = 179;
 }
 );
 unicode = 32;
+},
+{
+glyphname = nbspace;
+lastChange = "2026-02-07 08:09:19 +0000";
+layers = (
+{
+layerId = m01;
+width = 179;
+}
+);
+metricWidth = space;
+unicode = 160;
 },
 {
 glyphname = "maiyamok-thai";
