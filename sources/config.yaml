@@ -30,7 +30,7 @@ buildStatic: true
 # buildTTF: true
 buildOTF: false
 # buildSmallCap: false
-outputDir: "../fonts/ttf/suitbeethoven"
+outputDir: "../fonts"
 
 # The next flags control autohinting.
 # autohintTTF: true
