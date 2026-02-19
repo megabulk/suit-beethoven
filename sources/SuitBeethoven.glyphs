@@ -72,27 +72,27 @@ value = 0;
 },
 {
 name = winAscent;
-value = 938;
+value = 1000;
 },
 {
 name = winDescent;
-value = -223;
+value = 300;
 },
 {
 name = hheaAscender;
-value = 0;
+value = 1000;
 },
 {
 name = hheaDescender;
-value = 0;
+value = -300;
 },
 {
 name = typoAscender;
-value = 0;
+value = 1000;
 },
 {
 name = typoDescender;
-value = 0;
+value = -300;
 }
 );
 guides = (
@@ -120,13 +120,13 @@ id = m01;
 metricValues = (
 {
 over = 14;
-pos = 714;
+pos = 1000;
 },
 {
 },
 {
 over = -14;
-pos = -179;
+pos = -300;
 },
 {
 over = 14;
